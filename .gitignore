@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Turbo
+.turbo
+
+# Expo
+.expo
+dist/
+
+# Swap files
+*.swp
